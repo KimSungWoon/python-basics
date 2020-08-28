@@ -6,6 +6,12 @@ if a > 5:
 else:
     print('small')
 
+# java, c, c== javascript ( 삼항 연산자)
+# s = a > 5 ? 'bog : ' small'
+print('big' if a > 5 else 'small')
+
+
+# print( a > 5 ? )
 # if ~ elif ~ else
 n = 10
 if n > 0:
